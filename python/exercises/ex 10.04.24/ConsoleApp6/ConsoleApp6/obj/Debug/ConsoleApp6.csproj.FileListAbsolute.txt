@@ -1,0 +1,2 @@
+C:\Users\user\Documents\GitHub\mego\python\exercises\ex 10.04.24\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\mego\python\exercises\ex 10.04.24\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
